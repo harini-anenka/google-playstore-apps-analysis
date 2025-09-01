@@ -7,6 +7,10 @@ This project analyzes over 2.3M apps from the Google Play Store to uncover marke
 The dataset was cleaned using Power Query, and advanced calculations were performed using DAX (e.g., revenue estimation, price standardization across currencies).
 
 
+### Access the interative Dashboard here  [📊Power Bi](https://app.powerbi.com/view?r=eyJrIjoiNDU2NmU2ZjAtZmZlMi00ODRjLWJkZDgtNGIzZTg4MGM3ZTM3IiwidCI6IjA1Y2ZjNmYxLTEzOTctNDAxNi04YWNlLWI0YzEwOTk4NjYxOCJ9&pageName=a31b6a92ac08d926c901)
+
+
+
 ## **🔹 Key Insights**
 
 📌**Market Structure**
